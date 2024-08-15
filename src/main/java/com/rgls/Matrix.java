@@ -65,6 +65,4 @@ public class Matrix {
             print(row, col + 1);
         }
     }
-
-
 }
